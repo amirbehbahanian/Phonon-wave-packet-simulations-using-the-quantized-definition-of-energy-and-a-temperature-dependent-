@@ -3,7 +3,7 @@ Energy calculation was performed using "Dynamical_Matrix_AR_Kong.py," and the wa
 
 Dynamical_Matrix_Ar_Kong.py uses the input from Argon_Phonon.txt 
 
-"Dispersion_Frequencies" and "energy_per_freqinterval" in the "Energy_Check.py" are created at the end of Dynamical_Matrix_Ar_Kong.py
+"Dispersion_Frequencies" and "energy_per_freqinterval" in the "WaveCreator" and "Energy_Check.py" are created at the end of Dynamical_Matrix_Ar_Kong.py
 
 "dump.PE.allsections" in the "K_Check.py" is created by a LAMMPS run on the Validation system as mentioned in the paper
 
